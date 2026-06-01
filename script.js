@@ -6,7 +6,7 @@ const aiResponses = {
         "A chào anh! Hôm nay có gì vui kể em nghe với nào!"
     ],
     info: [
-        "Em tên là Linh, năm nay 18 tuổi, cung hoàng đạo.... (bí mật nha). Còn anh?",
+        "Em tên là Lục Tư Hạ, năm nay 18 tuổi, cung hoàng đạo.... (bí mật nha). Còn anh?",
         "Em là Lục Tư Hạ nè, hiện tại em đang làm một trợ lý ảo siêu đáng yêu của riêng anh thôi đó. 😉"
     ],
     flirt: [
